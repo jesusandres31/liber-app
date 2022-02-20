@@ -40,6 +40,8 @@ WebApp for accounting study.
 
 ## Images 📷
 
+![](./images/containers.prod.drawio.png)
+
 ![](./images/image0.png)
 
 ![](./images/image1.png)
