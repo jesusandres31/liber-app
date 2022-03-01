@@ -6,7 +6,7 @@ WebApp for accounting study.
 
 ### Operations
 
-- Docker
+- Docker 🐳
 - Docker-Compose
 - Nginx Server/Reverse Proxy
 - Let's Encrypt Certbot
