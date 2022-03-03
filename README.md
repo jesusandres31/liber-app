@@ -13,7 +13,9 @@ WebApp for accounting study.
 - Ubuntu Linux VPC
 - Bash Scripting
 - Crontab and [Gdrive](https://github.com/prasmussen/gdrive) for automatic DB backup
+- Jenkins CI/CD
 - CloudFlare
+- GoogleCloud
 
 ### Development
 
