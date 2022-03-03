@@ -16,6 +16,7 @@ WebApp for accounting study.
 - Jenkins CI/CD
 - CloudFlare
 - GoogleCloud
+- SonarQube code analysis 
 
 ### Development
 
