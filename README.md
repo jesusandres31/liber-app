@@ -40,6 +40,7 @@ WebApp for accounting study.
 - Mailing with Nodemailer
 - Cronjobs with Node-cron
 - Authentication with Passport JWT
+- Feature Flags implementation
 
 ## Images 📷
 
