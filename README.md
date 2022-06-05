@@ -8,7 +8,7 @@ WebApp for accounting study.
 
 - Docker 🐳
 - Docker-Compose
-- Nginx Server/Reverse Proxy
+- Nginx Web Server/Reverse Proxy
 - Let's Encrypt Certbot
 - Ubuntu Linux VPC
 - Bash Scripting
@@ -16,7 +16,7 @@ WebApp for accounting study.
 - Jenkins CI/CD
 - CloudFlare
 - GoogleCloud
-- SonarQube code analysis 
+- SonarQube code analysis
 
 ### Development
 
